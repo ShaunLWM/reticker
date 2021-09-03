@@ -1,5 +1,11 @@
 # reticker
 
+[![npm](https://img.shields.io/npm/dt/reticker.svg)](https://github.com/ShaunLWM/reticker/releases)
+[![npm](https://img.shields.io/npm/v/reticker.svg)](https://www.npmjs.com/package/reticker)
+![npm](https://img.shields.io/npm/l/reticker)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ShaunLWM/reticker/Run%20jest)
+
+
 A [Python-ported](https://github.com/impredicative/reticker) stock tickers extractor using Regular Expressions.
 
 ## Installation
